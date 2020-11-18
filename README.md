@@ -7,8 +7,6 @@ Hey, This is **Serhiy Zelenkov**, and welcome to my Github profile.
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/szelenkov)
 &nbsp;
 
-**szelenkov/szelenkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 Currently working on change ...
