@@ -1,1 +1,3 @@
-{}
+{
+    "$schema": "https://raw.githubusercontent.com/kamilkisiela/graphql-config/v3.0.3/config-schema.json",
+}
