@@ -11,7 +11,7 @@ Hey, This is **Serhiy Zelenkov**, and welcome to my Github profile.
 
 ## 👯 Let`s talk
 
-- 🔭 Currently working on change ...
+- 🔭 I'm a Software Developer from Canada.
 - 🌱 Getting better at: Application UI and coding pattern.<!-- - ⚒️ Looking to collaborate on ... --><!-- - 🤔 Looking for help with ... -->
 - 💬 Ask me about anything.
 - 📫 How to reach me: Send a pigeon 🐦.
