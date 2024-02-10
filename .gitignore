@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 
 # C extensions
-*.so
+*.[ms]o
 
 # Distribution / packaging
 .Python
@@ -39,8 +39,7 @@ pip-delete-this-directory.txt
 
 # Unit test / coverage reports
 htmlcov/
-.tox/
-.nox/
+.[nt]ox/
 .coverage
 .coverage.*
 .cache
@@ -52,7 +51,6 @@ coverage.xml
 .pytest_cache/
 
 # Translations
-*.mo
 *.pot
 
 # Django stuff:
